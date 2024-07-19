@@ -1,6 +1,9 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=700&color=45E7F7&center=true&vCenter=true&width=885&height=50&lines=🏴+𝑻𝑰𝑻𝑼𝑳𝑨𝑹+𝑱𝑶𝑺𝑿" alt="Typing SVG" /></a>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=700&color=45E7F7&center=true&vCenter=true&width=885&height=50&lines=Soy un desarrollador apasionado por la tecnología y la programación. Como creador y titular de varios bots innovadores, siempre busco nuevas formas de mejorar y optimizar soluciones tecnológicas." alt="Typing SVG" /></a>
+
 
 - 👋 Hi, I’m @titular-josx
 - 👀 I’m interested in ...
