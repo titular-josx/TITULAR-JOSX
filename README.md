@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=485&height=50&lines=%E2%9C%A8+𝑻𝑰𝑻𝑼𝑳𝑨𝑹+𝑱𝑶𝑺𝑿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=485&height=50&lines=+𝑻𝑰𝑻𝑼𝑳𝑨𝑹+𝑱𝑶𝑺𝑿" alt="Typing SVG" /></a>
 
 
 - 👋 Hi, I’m @titular-josx
